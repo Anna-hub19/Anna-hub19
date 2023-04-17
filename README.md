@@ -1,4 +1,4 @@
-![Anna-hub19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-hub19&theme=dark&show_icons=true)
+
  
  
 <div> 
