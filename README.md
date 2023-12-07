@@ -1,4 +1,4 @@
-## Oiii eu sou a Anna Beatriz, criadora de conteúdo de programação e tecnologia!  sou desenvolvedora junior front-end
+## Oiii eu sou a Anna Beatriz, criadora de conteúdo de programação e tecnologia!  sou desenvolvedora full stack junior
 
 
 
